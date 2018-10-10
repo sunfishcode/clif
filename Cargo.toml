@@ -1,0 +1,8 @@
+[package]
+name = "clif"
+version = "0.0.0"
+authors = ["The Cranelift Project Developers"]
+license = "Apache-2.0 WITH LLVM-exception"
+description = "Placeholder for a future project for working with Cranelift IR"
+
+[dependencies]
